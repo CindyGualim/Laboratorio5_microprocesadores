@@ -69,4 +69,4 @@ gcc tres_funciones.c -o tres_funciones -fopenmp
 ./SumaForparalelo
 ./dos_variables
 ./tres_funciones
-```
+
